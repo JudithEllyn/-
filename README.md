@@ -7,8 +7,8 @@
 
 
 环境配置、如何创建一个在框架下的小程序/和vscode连接  
-[使用mpvue开发微信小程序（一）](https://cloud.tencent.com/developer/article/1191052)
-[环境配置比较详细](https://www.anyanf.com/post/html/quick-start-wx-mpvue/)
+[使用mpvue开发微信小程序（一）](https://cloud.tencent.com/developer/article/1191052)  
+[环境配置比较详细](https://www.anyanf.com/post/html/quick-start-wx-mpvue/)  
 
 NPM（node package manager),通常称为node包管理器，主要功能就是管理node包，包括：安装、卸载、更新、查看、搜索、发布等。
 
@@ -20,7 +20,7 @@ npm run dev**
 [vue.js菜鸟教程](https://www.runoob.com/vue2/vue-start.html)  
 [css 菜鸟教程](https://www.runoob.com/css/)
 [css3菜鸟教程](https://www.runoob.com/css3/css3-tutorial.html)
-
+[css字体](https://blog.csdn.net/qq_31603575/article/details/80202997)
 
 src是我们要编辑的代码页，在pages中新建页面进行编译，每个页面要形成单独的子文件夹，有xx.vue,main.js(形成vue实例),main.json(自定义页面配置)  
 dist是程序根据我们在src中写的html/web代码自动生成的小程序代码  
